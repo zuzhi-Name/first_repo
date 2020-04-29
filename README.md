@@ -1,2 +1,2 @@
 # first_repo
-第一个repo工程
+给teamTriage权限:
